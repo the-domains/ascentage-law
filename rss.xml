@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ascentage Law]]></title>
+        <description><![CDATA[Ascentage Law]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 18:29:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ascentage Law, PLLC]]></title>
+            <description><![CDATA[<article><h1>Ascentage Law, PLLC</h1><p>Success in the 21st Century is dependent upon a company's ability to develop, keep and utilize commercial advantages in the marketplace. Ascentage Law possesses the business, technological and legal experience necessary to assist clients effectively in these critical activities. Contact us today to see how we can assist with your innovative ideas and technology-based business.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4388596598aaf3dc39744022311800de89708f1.jpg"></article>]]></description>
+            <link>undefinedascentage-law-pllc/index.html</link>
+            <guid isPermaLink="false">1e869ad3-c241-4c44-b86e-88593668ecda</guid>
+            <pubDate>Fri, 20 May 2016 18:29:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
